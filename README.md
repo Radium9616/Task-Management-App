@@ -1,5 +1,5 @@
 Task Management App.
-A Python-based productivity application that helps you stay on top of your work by tracking tasks, sorting them by difficulty and scoring your daily performance based on completion.
+A Python-based productivity application that helps you stay on top of your work by tracking tasks, sorting them by difficulty and scoring your daily performance based on completion. Open main.py and run it.
 Features
 
 Add and manage tasks with difficulty levels
